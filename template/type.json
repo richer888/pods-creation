@@ -6,7 +6,7 @@
           "list":[
               {
                   "label": "酒店活动模板",
-                  "value": "1-3",
+                  "value": "1-1",
                   "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/6ff9093a-4976-416b-8285-db5496842487.json",
                   "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/6ff9093a-4976-416b-8285-db5496842487.png"
               },
@@ -18,7 +18,7 @@
           "list":[
               {
                   "label": "食物饼干",
-                  "value": "1-4",
+                  "value": "1-1",
                   "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/2e49d775-0e06-4c9d-a60f-ea936890280d.json",
                   "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/2e49d775-0e06-4c9d-a60f-ea936890280d.png"
               },
@@ -30,7 +30,7 @@
           "list":[
               {
                   "label": "拼图模板",
-                  "value": "1-4",
+                  "value": "1-1",
                   "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/88594942-951f-4c66-9a2c-8e1897436338.json",
                   "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/88594942-951f-4c66-9a2c-8e1897436338.png"
               },
