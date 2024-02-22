@@ -4,9 +4,15 @@
           "value": "1",
           "label": "简单模板1",
           "list":[
+            {
+                  "label": "衣服模板",
+                  "value": "1-1",
+                  "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/d7b434b2-9c3c-4a14-9df8-1b64e1367cf5.json",
+                  "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/a99b1fb8-a8d9-446a-b8e4-30943917ac68.png"
+            },
               {
                   "label": "酒店活动模板",
-                  "value": "1-1",
+                  "value": "1-2",
                   "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/6ff9093a-4976-416b-8285-db5496842487.json",
                   "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/6ff9093a-4976-416b-8285-db5496842487.png"
               }
