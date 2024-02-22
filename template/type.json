@@ -9,7 +9,7 @@
                   "value": "1-1",
                   "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/6ff9093a-4976-416b-8285-db5496842487.json",
                   "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/6ff9093a-4976-416b-8285-db5496842487.png"
-              },
+              }
           ]
       },
       {
@@ -21,7 +21,7 @@
                   "value": "1-1",
                   "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/2e49d775-0e06-4c9d-a60f-ea936890280d.json",
                   "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/2e49d775-0e06-4c9d-a60f-ea936890280d.png"
-              },
+              }
           ]
       },
       {
@@ -33,8 +33,7 @@
                   "value": "1-1",
                   "tempUrl": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/88594942-951f-4c66-9a2c-8e1897436338.json",
                   "src": "https://raw.githubusercontent.com/richer888/pods-creation/main/template/88594942-951f-4c66-9a2c-8e1897436338.png"
-              },
-
+              }
           ]
       }
   ]
